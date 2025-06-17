@@ -1,3 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=cccccc&center=true&lines=01011000+01011001+01011010" /> <br>
-</p>
+<div id="image-table" align="center">
+    <table>
+        <tr>
+            <td style="padding:20px">
+                
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vittor.marx&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=58a6ff&bar_color_cover=false" />   
+            </td>
+        </tr>
+    </table>
+</div>
