@@ -1,4 +1,4 @@
-<div id="image-table" align="center">
+<div align="center">
     <table>
         <tr>
             <td>
