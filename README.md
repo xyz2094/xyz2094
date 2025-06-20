@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.tenor.com/giNrzT0tQGsAAAAj/bonfire-dark-souls.gif" width=512/>
+    <img src="https://media.tenor.com/giNrzT0tQGsAAAAj/bonfire-dark-souls.gif" width=720/>
 </div>
 
 
