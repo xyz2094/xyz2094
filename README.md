@@ -9,7 +9,7 @@
 | <a href="https://github.com/vittordallacqua/mips-simulator"> mips simulator </a> 
 | <a href="https://github.com/vittordallacqua/mips-simulator"> c netgraph </a>
 | <a href="https://github.com/vittordallacqua/mips-simulator"> stock and sales system </a> <br>
-| <a href="https://github.com/vittordallacqua/mips-simulator"> zip code search </a> 
+ <a href="https://github.com/vittordallacqua/mips-simulator"> zip code search </a> 
 | <a href="https://github.com/vittordallacqua/mips-simulator"> capybet </a> 
 | <a href="https://github.com/vittordallacqua/mips-simulator"> bank management system </a> </p> 
 
