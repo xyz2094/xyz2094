@@ -2,9 +2,9 @@
     <img src="https://github.com/vittordallacqua/vittordallacqua/blob/main/ds01-bonfire.gif" width=820 height=225/>
 </div>
 
-# <div align="center"> Summary </div>
+# <div align=center> Summary </div>
 
-<p align="center"> <a href="https://github.com/vittordallacqua/mips-simulator"> chess game </a> 
+<p align="center"> <a text-decoration=none href="https://github.com/vittordallacqua/mips-simulator"> chess game </a> 
 | <a href="https://github.com/vittordallacqua/mips-simulator"> truc game </a>  
 | <a href="https://github.com/vittordallacqua/mips-simulator"> mips simulator </a> 
 | <a href="https://github.com/vittordallacqua/mips-simulator"> c netgraph </a>
