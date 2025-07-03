@@ -1,4 +1,4 @@
-### Summary
+### projects summary
 
 <p> > <a text-decoration=none href="https://github.com/vittordallacqua/mips-simulator"> chess game </a> </p>
 <p> > <a href="https://github.com/vittordallacqua/mips-simulator"> truc game </a> </p>
