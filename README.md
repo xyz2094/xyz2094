@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/vittordallacqua/vittordallacqua/blob/main/ds01-bonfire.gif" width=820 height=270/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vittor.marx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=58a6ff" width=380/>
 </div>
 
 ### <div align=center> projects summary </div>
