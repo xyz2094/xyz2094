@@ -1,11 +1,11 @@
-<div>
+<div align="center">
   <table>
     <tr> 
       <td align="center">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=2234taxp7ayxbsvwbzaxzbmnq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />  
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vittor.marx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=58a6ff"/>  
       </td>
       <td align="center">
-        <a href="https://x.com/kojimawhore"><img src="https://github.com/xyz2094/vittordallacqua/blob/main/mikuuu.gif" width=80 /></a>
+        <a href="https://x.com/kojimawhore"><img src="https://github.com/xyz2094/vittordallacqua/blob/main/mikuuu.gif" width=60 /></a>
         <br>
         <a href="https://xyz2094.github.io/">website</a>
        </td>
